@@ -36,7 +36,7 @@ fields_of_interests:
   
 currently_learning: ["Numpy, Pandas, and ReactJS"]
 2022 Goals: ["Create 5 websites and learn new modules in python"]
-hobbies: ["Gym", "Anime", "Coding(sometimes)", "Finance"]
+hobbies: ["Gym", "Anime", "FOOOD!!", "Finance"]
 ```
   
 ---  
