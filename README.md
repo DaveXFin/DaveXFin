@@ -33,14 +33,10 @@ fields_of_interests:
     "UI/UX",
     
   ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-  ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Numpy, Pandas, and ReactJS"]
+2022 Goals: ["Create 5 websites and learn new modules in python"]
+hobbies: ["Gym", "Anime", "Coding(sometimes)", "Finance"]
 ```
   
 ---  
