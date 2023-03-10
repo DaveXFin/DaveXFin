@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi I am Dave. Still learning...
+  Hi I am Dave. Still learning and...
 </h1>
 
 <p align="center">
