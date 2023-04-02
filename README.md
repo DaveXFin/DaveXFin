@@ -61,4 +61,3 @@ hobbies: ["Gym", "Anime", "FOOOD!!", "Finance"]
 
 <h2> 📈 &nbsp;My GitHub History!(Yes commit is low, but I am working on it :D)</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
