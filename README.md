@@ -1,6 +1,17 @@
 <h1 align="center">
-  Hi I am Dave. Still learning and...
+  Hi There
 </h1>
+<p>
+   I am David or sometimes go by Dave. I am a curious individual about programming and software development. 
+  <ul>
+    <li>
+    🌱 I am currently working on an applicaiton to help people to plan out their trips by using AI as an assistant to help them budget and ogranize their trip for them.
+    </li>
+    <li>
+      I have recently made a simple 
+    </li>
+  </ul>
+</p>
 
 <p align="center">
 
@@ -8,36 +19,9 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
 </p>
-
+  
 ---
-
-<h2> 👨🏻‍💻 &nbsp;About Me</h2>
-
-```yaml
-name: David Xu
-located_in: Finland
-education:
-  [
-    "Bachelor's in Computer Science from Kalamazoo College",
-  ]
-fields_of_interests:
-  [
-    "Data Science",
-    "Machine Learning/AI",
-    "DevOps",
-    "Web Development",
-    "UI/UX",
-    
-  ]
-  
-currently_learning: ["Numpy, Pandas, and ReactJS"]
-2022 Goals: ["Create 5 websites and learn new modules in python"]
-hobbies: ["Gym", "Anime", "FOOOD!!", "Finance"]
-```
-  
----  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned(and forgotten forgotten a little bit :))</h2>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
@@ -54,6 +38,4 @@ hobbies: ["Gym", "Anime", "FOOOD!!", "Finance"]
 </p>
 
 ---
-
-<h2> 📈 &nbsp;My GitHub History!(Yes commit is low, but I am working on it :D)</h2>
 
