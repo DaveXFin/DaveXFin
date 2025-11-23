@@ -5,10 +5,13 @@
    I am David or sometimes go by Dave. I am a curious individual about programming and software development. 
   <ul>
     <li>
-    🌱 I am currently working on an applicaiton to help people to plan out their trips by using AI as an assistant to help them budget and ogranize their trip for them.
+     🏗️ I am currently working on an application to help users, plan out their trips by using AI as an assistant to help them budget and ogranize their trip for them.
     </li>
-    <li>
-      I have recently made a simple 
+    <li> 
+     🌱 I have recently made a simple portfolio website <a href="https://davidxufin.dev">here</a> using NEXTjs resume template.
+    </li>
+    <li> 
+     🔮 I was recently laid off so I am taking the opportunity to translate backlog of ideas to actual functional applications.
     </li>
   </ul>
 </p>
