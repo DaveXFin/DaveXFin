@@ -5,7 +5,7 @@
    I am David or sometimes go by Dave. I am a curious individual about programming and software development. 
   <ul>
     <li>
-     🏗️ I am currently working on an application to help users, plan out their trips by using AI as an assistant to help them budget and ogranize their trip for them.
+     🏗️ I am currently working on an application to help users, plan out their trips by using AI as an assistant to help them budget and ogranize their trip for them. You can click on my porfolio link to find out more about teh project as I will give updates after every sprint.
     </li>
     <li> 
      🌱 I have recently made a simple portfolio website <a href="https://davidxufin.dev">here</a> using NEXTjs resume template.
